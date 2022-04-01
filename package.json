@@ -2,7 +2,6 @@
   "name": "yash-try-github-search",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://jorgetorreso.github.io/chiper/",
   "dependencies": {
     "@datepicker-react/styled": "^2.8.4",
     "@emotion/css": "^11.1.3",
@@ -31,7 +30,8 @@
     "redux-thunk": "^2.3.0",
     "styled-components": "^5.3.5",
     "typescript": "^4.1.2",
-    "web-vitals": "^1.0.1"
+    "web-vitals": "^1.0.1",
+    "homepage":"https://jorgetorreso.github.io/chiper/",
   },
   "scripts": {
     "start": "react-scripts start",
