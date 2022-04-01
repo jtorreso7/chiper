@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chiper/static/css/main.513c5e7d.chunk.css",
+    "main.js": "/chiper/static/js/main.8c471f28.chunk.js",
+    "main.js.map": "/chiper/static/js/main.8c471f28.chunk.js.map",
+    "runtime-main.js": "/chiper/static/js/runtime-main.d33acc44.js",
+    "runtime-main.js.map": "/chiper/static/js/runtime-main.d33acc44.js.map",
+    "static/js/2.7de63d96.chunk.js": "/chiper/static/js/2.7de63d96.chunk.js",
+    "static/js/2.7de63d96.chunk.js.map": "/chiper/static/js/2.7de63d96.chunk.js.map",
+    "static/js/3.d11b83dc.chunk.js": "/chiper/static/js/3.d11b83dc.chunk.js",
+    "static/js/3.d11b83dc.chunk.js.map": "/chiper/static/js/3.d11b83dc.chunk.js.map",
+    "index.html": "/chiper/index.html",
+    "static/css/main.513c5e7d.chunk.css.map": "/chiper/static/css/main.513c5e7d.chunk.css.map",
+    "static/js/2.7de63d96.chunk.js.LICENSE.txt": "/chiper/static/js/2.7de63d96.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d33acc44.js",
+    "static/js/2.7de63d96.chunk.js",
+    "static/css/main.513c5e7d.chunk.css",
+    "static/js/main.8c471f28.chunk.js"
+  ]
+}
