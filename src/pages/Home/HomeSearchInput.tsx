@@ -137,7 +137,6 @@ const HomeSearchInput = (props: IHomeSearchInputProps) => {
             mr={2}
             sx={ButtonStyle}
             onClick={() => {
-              debugger
               onInputChange(query);
             }}
           >

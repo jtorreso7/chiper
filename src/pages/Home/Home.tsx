@@ -80,7 +80,6 @@ const Home = (props: IHomeSearchProps) => {
   }, []);
 
   const handleInputChange = (value: string) => {
-    debugger
     if (!value) {
       setQuery("");
       return;
